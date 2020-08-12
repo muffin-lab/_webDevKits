@@ -1,2 +1,2 @@
-# _webDevKits
-Handy kits for web development
+# WebDevKits
+*Handy kits for web development
